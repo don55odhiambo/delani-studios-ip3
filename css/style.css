@@ -1,34 +1,4 @@
-h1
-{
-    text-align: center;
-    color: white;
-    
-}
-p
-{
-    text-align: center;
-    color: white;
-}
-h2
-{
-    text-align: center;
-    color: white;
-
-}
-h3
-{
-    text-align: center;
-    color: white;
-}
 body{
-    background-image: url("images/backgrounds/h_img.jpg");
-    background-image: url("images/backgrounds/s_image.jpg");
+    text-align: center;
     
-
 }
-
-
-
-
-
-
