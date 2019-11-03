@@ -8,7 +8,7 @@ this is a studio that makes and decorates designs in a fun environment through i
 
 
 ### Setup
-
+clone the project.navigate to the project folder.open the project with your text editor.
 ### Technologies used
 javascript
 jquery
@@ -24,7 +24,7 @@ MIT license
 
 MIT License
 
-Copyright (c) [2019] [don]
+Copyright (c) 2019 don odhiambo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
