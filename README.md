@@ -22,8 +22,6 @@ for any inquiries contact dondejan55@gmail.com
 ### license
 MIT license
 
-MIT License
-
 Copyright (c) 2019 don odhiambo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
