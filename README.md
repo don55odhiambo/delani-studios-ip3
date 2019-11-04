@@ -18,7 +18,7 @@ clone the project.navigate to the project folder.open the project with your text
 ### Bugs
 no issues/bugs
 ### contact and support details
-for any inquiries contact dondejan55@Gmail.com
+for any inquiries contact dondejan55@gmail.com
 ### license
 MIT license
 
