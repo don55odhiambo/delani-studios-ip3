@@ -10,11 +10,11 @@ this is a studio that makes and decorates designs in a fun environment through i
 ### Setup
 clone the project.navigate to the project folder.open the project with your text editor.
 ### Technologies used
-javascript
-jquery
-css
-html
-bootstrap 4
+- javascript
+- jquery
+- css
+- html
+- bootstrap 4
 ### Bugs
 no issues/bugs
 ### contact and support details
