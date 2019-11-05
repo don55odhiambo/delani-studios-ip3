@@ -38,6 +38,9 @@ H4
 {
     text-align: center;
 }
+.container {
+text-align: center;
+}
 #don4{
     text-align: center;
     color: black;
@@ -60,7 +63,7 @@ h5
     color: white;
     text-align: center;
     background-image: url('c_image.jpg');
-    height: 40vh;
+    height: 100vh;
     justify-content: center;
     padding-top: 100px;
 }
@@ -83,4 +86,13 @@ h5
 footer
 {
     text-align: center;
+}
+#DESIGN2{
+    display: none;
+}
+#DEVELOPMENT2{
+    display: none;
+}
+#PRODUCT2{
+    display: none;
 }

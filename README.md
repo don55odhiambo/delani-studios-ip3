@@ -2,11 +2,11 @@
 this is a studio that makes and decorates designs in a fun environment through intergrated,interactive and agile processes
 ### Live link: 
 ### screenshot
-![screenshot](images/screenshot1.png)
-![screenshot](images/screenshot2.png)
-![screenshot](images/screenshot3.png)
-![screenshot](images/screenshot4.png)
-![screenshot](images/screenshot5.png)
+<img src="images/screenshot1.png">
+<img src="images/screenshot2.png">
+<img src="images/screenshot3.png">
+<img src="images/screenshot4.png">
+<img src="images/screenshot5.png">
 ### BDD
 - someone enters an email and then a popup appears that says thank you.
 
