@@ -2,10 +2,13 @@
 this is a studio that makes and decorates designs in a fun environment through intergrated,interactive and agile processes
 ### Live link: 
 ### screenshot
-![screen capture]
+![screenshot](images/screenshot1.png)
+![screenshot](images/screenshot2.png)
+![screenshot](images/screenshot3.png)
+![screenshot](images/screenshot4.png)
+![screenshot](images/screenshot5.png)
 ### BDD
-
-
+- someone enters an email and then a popup appears that says thank you.
 
 ### Setup
 clone the project.navigate to the project folder.open the project with your text editor.
