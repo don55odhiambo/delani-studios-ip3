@@ -5,7 +5,82 @@ body{
 #don1{
     text-align: center;
     color:white;
-    background-image: url(images/backgrounds/h_img.jpg);
-
+    background-image: url('h_img.jpg');
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+   padding-top: 200px ;
+}
+#don2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+h2
+{
+    text-align: center;
+    color: black;
+}
+p
+{
+    text-align: center;
+}
+#don3{
+    text-align: center;
+    color: white;
+    background-image: url('s_image.jpg');
+    background-size: cover;
+    height: 50vh;
+    justify-content: center;
+    padding-bottom: 100px;
+    padding-top: 70px;
+}
+H4
+{
+    text-align: center;
+}
+#don4{
+    text-align: center;
+    color: black;
+    padding-bottom: 100px;
+    padding-top: 70px;
+    justify-content: center;
+}
+h5
+{
+    color: black;
+    text-align: center;
     
+    
+}
+#don5{
+    text-align: center;
+    color: black;
+}
+#don6{
+    color: white;
+    text-align: center;
+    background-image: url('c_image.jpg');
+    height: 40vh;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.port1{
+    display:flex;
+    justify-content: space-around; 
+    margin-left:40px;                           
+    
+}
+.port2{
+    display:flex;
+    justify-content: space-around;      
+    margin-left:40px; 
+
+}
+.social_media {
+    text-align: center;
+}
+footer
+{
+    text-align: center;
 }
