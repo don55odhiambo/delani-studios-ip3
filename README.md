@@ -7,6 +7,7 @@ this is a studio that makes and decorates designs in a fun environment through i
 <img src="images/screenshot3.png">
 <img src="images/screenshot4.png">
 <img src="images/screenshot5.png">
+
 ### BDD
 - someone enters an email and then a popup appears that says thank you.
 
@@ -14,7 +15,7 @@ this is a studio that makes and decorates designs in a fun environment through i
 clone the project.navigate to the project folder.open the project with your text editor.
 ### Technologies used
 - javascript
-- jquery
+- jquery 
 - css
 - html
 - bootstrap 4
