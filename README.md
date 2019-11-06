@@ -1,6 +1,6 @@
 # DELANI STUDIO
 this is a studio that makes and decorates designs in a fun environment through intergrated,interactive and agile processes
-### Live link: 
+### Live link: https://don55odhiambo.github.io/delani-studios-ip3/
 ### screenshot
 <img src="images/screenshot1.png">
 <img src="images/screenshot2.png">
